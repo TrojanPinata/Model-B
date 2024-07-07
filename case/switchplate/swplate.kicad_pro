@@ -215,7 +215,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "swplate.step",
+      "step": "swplate2.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
