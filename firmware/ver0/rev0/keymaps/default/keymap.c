@@ -356,7 +356,7 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
     if (keycode == OLED_MOD) {
         if (record->event.pressed) {
             oled_clear();
-            if (display_mode == NUM_MODES) {
+            if (display_mode == NUM_MODES - 1) {
                 display_mode = 0;
             }
             else {
