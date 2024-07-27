@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.2,
-          "height": 3.5,
-          "width": 3.5
+          "drill": 3.4,
+          "height": 3.4,
+          "width": 3.4
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -80,7 +80,7 @@
         "item_on_disabled_layer": "error",
         "items_not_allowed": "error",
         "length_out_of_range": "error",
-        "lib_footprint_issues": "warning",
+        "lib_footprint_issues": "ignore",
         "lib_footprint_mismatch": "warning",
         "malformed_courtyard": "ignore",
         "microvia_drill_out_of_range": "error",
@@ -175,7 +175,8 @@
         0.0,
         0.15,
         0.4,
-        0.8
+        0.8,
+        1.0
       ],
       "via_dimensions": [
         {
