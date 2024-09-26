@@ -21,3 +21,8 @@
 
 #define OLED_BRIGHTNESS 255 // you can reduce the brightness, but not make it brighter!
 #define OLED_TIMEOUT 300000 // 5 minutes before oled turns off
+
+#define ENCODERS_PAD_A { GP27 }
+#define ENCODERS_PAD_B { GP26 }
+
+#define ENCODER_RESOLUTION 4
