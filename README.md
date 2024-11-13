@@ -10,3 +10,5 @@ See [what_is_this.md](what_is_this.md) for some info regarding why I made this a
 ![](https://i.imgur.com/5VRfPYX.jpeg)
 ![](https://i.imgur.com/7yxFbYw.jpeg)
 ![](https://github.com/TrojanPinata/Model-B/blob/main/case/ref-trans.png)
+
+![](https://github.com/TrojanPinata/Model-B/blob/main/assets/keymap.png)
