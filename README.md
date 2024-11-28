@@ -24,7 +24,7 @@ See [what_is_this.md](what_is_this.md) for some info regarding why I made this a
 
 </div>
 
-### Photography by [Kobe Canete!](https://www.kobebrian.com/)
+### Photography by [Kobe Brian!](https://www.kobebrian.com/)
 
 ![](https://i.imgur.com/6GueeRv.jpeg)
 ![](https://i.imgur.com/JeyrcR8.jpeg)
