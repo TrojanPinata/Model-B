@@ -20,7 +20,7 @@
 #define I2C1_SCL_PIN GP1
 
 #define OLED_BRIGHTNESS 255 // you can reduce the brightness, but not make it brighter!
-#define OLED_TIMEOUT 300000 // 5 minutes before oled turns off
+#define OLED_TIMEOUT 3000000 // 5 minutes before oled turns off
 
 #define ENCODERS_PAD_A { GP27 }
 #define ENCODERS_PAD_B { GP26 }

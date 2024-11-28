@@ -23,6 +23,10 @@ That’s pretty much all you need in terms of components. They can all be swappe
 
 Some sites I would recommend if you are looking for more enthusiast components are [Divinikey](https://divinikey.com/), [keeb.io](https://keeb.io/), [CannonKeys](https://cannonkeys.com/), and [KBDfans](https://kbdfans.com/), though you can find good stuff on Amazon and AliExpress if you look hard enough.
 
+Here is the keymap in case you want specific keycaps or a switch count.
+
+<img src=https://i.imgur.com/tMpCEa1.png alt="topdown" width="500"/>
+
 ### Assembly
 
 Once you have your components, the hardest part of assembly is installing the stabilizers (If I didn't install them for you).
